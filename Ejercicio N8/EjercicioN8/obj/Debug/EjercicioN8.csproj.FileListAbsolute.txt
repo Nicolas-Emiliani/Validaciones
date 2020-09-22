@@ -1,0 +1,10 @@
+F:\prog c sharp\EjercicioN8\EjercicioN8\bin\Debug\EjercicioN8.exe.config
+F:\prog c sharp\EjercicioN8\EjercicioN8\bin\Debug\EjercicioN8.exe
+F:\prog c sharp\EjercicioN8\EjercicioN8\bin\Debug\EjercicioN8.pdb
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.csprojAssemblyReference.cache
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.frmPromedios.resources
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.Properties.Resources.resources
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.csproj.GenerateResource.cache
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.csproj.CoreCompileInputs.cache
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.exe
+F:\prog c sharp\EjercicioN8\EjercicioN8\obj\Debug\EjercicioN8.pdb

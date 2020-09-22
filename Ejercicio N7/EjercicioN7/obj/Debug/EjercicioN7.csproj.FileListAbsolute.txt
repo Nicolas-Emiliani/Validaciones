@@ -1,0 +1,10 @@
+F:\prog c sharp\EjercicioN7\EjercicioN7\bin\Debug\EjercicioN7.exe.config
+F:\prog c sharp\EjercicioN7\EjercicioN7\bin\Debug\EjercicioN7.exe
+F:\prog c sharp\EjercicioN7\EjercicioN7\bin\Debug\EjercicioN7.pdb
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.csprojAssemblyReference.cache
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.Promedio.resources
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.Properties.Resources.resources
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.csproj.GenerateResource.cache
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.csproj.CoreCompileInputs.cache
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.exe
+F:\prog c sharp\EjercicioN7\EjercicioN7\obj\Debug\EjercicioN7.pdb
